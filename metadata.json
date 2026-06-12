@@ -1,0 +1,6 @@
+{
+  "name": "Hunnybi",
+  "description": "Premium 100% Pure, Raw & Natural Forest Honey eCommerce from India",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
